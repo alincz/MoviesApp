@@ -1,6 +1,6 @@
-# Trebuie sa iti faci cont pe The Movie Database (TMDB), apoi in meniul din Settings accesezi Api si de acolo faci rost de API KEY-ul necesar ca sa poti afisa filmele dorite
+# You must create an account on The Movie Database (TMDB), then in the Settings menu access APIs and from there obtain the API KEY necessary to be able to display the desired movies
 
-# Dupa creezi un fisier .env si in interiorul lui pui REACT_APP_API_KEY= api key-ul tau. Salvezi si repornesti proiectul.
+# Then create an .env file and inside it put your REACT_APP_API_KEY= api key. Save and restart the project.
 
 # Getting Started with Create React App
 
